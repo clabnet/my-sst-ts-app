@@ -1,5 +1,7 @@
 {
   "name": "my-sst-ts-app",
   "region": "us-west-2",
+  "lint": true,
+  "typeCheck": true,
   "main": "stacks/index.ts"
 }
